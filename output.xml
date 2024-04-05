@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Users><Name>Петров Владимир Ильич</Name><Pets> </Pets><Pet/><Code>001</Code><Type>Собака</Type><Gender>м</Gender><Age>3</Age><Nickname>Бобик</Nickname><Rewards/><Reward>Золотая медаль выставки №2</Reward><Reward>Золотая медаль выставки №2</Reward><Pet/><Code>002</Code><Type>Собака</Type><Gender>м</Gender><Age>1</Age><Nickname>Джон</Nickname></Users>
+<Users><Name>Петров Владимир Ильич</Name><Pets><Pet/><Code>001</Code><Type>Собака</Type><Gender>м</Gender><Age>3</Age><Nickname>Бобик</Nickname><Rewards><Reward>Золотая медаль выставки №2</Reward><Reward>Золотая медаль выставки №2</Reward></Rewards><Pet/><Code>002</Code><Type>Собака</Type><Gender>м</Gender><Age>1</Age><Nickname>Джон</Nickname></Pet></Pets></Users>
